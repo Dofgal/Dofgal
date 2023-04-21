@@ -1,7 +1,15 @@
 ### Hi there 👋
 
-[![Dofgal Github Stats](https://github-dofgal-stats.vercel.app/api/?username=Dofgal&include_all_commits=true)](https://github.com/Dofgal)
-[![Dofgal Top Langs](https://github-dofgal-stats.vercel.app/api/top-langs/?username=Dofgal&langs_count=10&layout=compact)](https://github.com/Dofgal)
+- 🏫 A first-year graduate at Shanghai Jiao Tong University
+- 📬 Can be reached by dofgal@sjtu.edu.cn
+- 🏀 Looking forward to playing basketball again
+
+<a href="https://github.com/Dofgal">
+  <img align="center" src="https://github-dofgal-stats.vercel.app/api/?username=Dofgal&include_all_commits=true&show_icons=true&theme=tokyonight" height="200px"/>
+</a>
+<a href="https://github.com/Dofgal">
+  <img align="center" src="https://github-dofgal-stats.vercel.app/api/top-langs/?username=Dofgal&langs_count=10&layout=compact&theme=tokyonight" height="200px"/>
+</a>
 
 <!--
 **Dofgal/Dofgal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +24,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
