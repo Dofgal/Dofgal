@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[![Dofgal Github Stats](https://github-readme-stats.vercel.app/api/?username=Dofgal&include_all_commits=true)](https://github.com/Dofgal)
-[![Dofgal Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dofgal&langs_count=10&layout=compact)](https://github.com/Dofgal)
+[![Dofgal Github Stats](https://github-dofgal-stats.vercel.app/api/?username=Dofgal&include_all_commits=true)](https://github.com/Dofgal)
+[![Dofgal Top Langs](https://github-dofgal-stats.vercel.app/api/top-langs/?username=Dofgal&langs_count=10&layout=compact)](https://github.com/Dofgal)
 
 <!--
 **Dofgal/Dofgal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
