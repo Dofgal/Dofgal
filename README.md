@@ -2,7 +2,6 @@
 
 - 🏫 A first-year graduate at Shanghai Jiao Tong University
 - 📬 Can be reached by dofgal@sjtu.edu.cn
-- 🏀 Looking forward to playing basketball again
 
 <a href="https://github.com/Dofgal">
   <img align="center" src="https://github-dofgal-stats.vercel.app/api/?username=Dofgal&include_all_commits=true&show_icons=true&theme=tokyonight" height="175px"/>
