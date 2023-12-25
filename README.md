@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🏫 A first-year graduate at Shanghai Jiao Tong University
+- 🏫 A second-year graduate at Shanghai Jiao Tong University
 - 📬 Can be reached by Zegfoss@outlook.com
 
 <a href="https://github.com/Dofgal">
